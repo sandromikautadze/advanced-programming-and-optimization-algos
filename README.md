@@ -1,13 +1,13 @@
 # Advanced Programming and Optimization Algorithms
 
-The following repository containts all the graded assigments of the course in _Advanced Programming and Optimization Algorithms_ taken in the 2nd semester of my 2nd year at university. The main outline of the course was that of covering fundamental techniques for solving optimization problems, namely linear programming as well as discrete and convex optimization.
+This repository contains the graded assignments for the course in Advanced Programming and Optimization Algorithms, which I took during the second semester of my second year at university. The course covered theory and fundamental techniques for solving optimization problems, including linear programming, discrete optimization, and convex optimization.
 
-## Topics
+## Description
 
-These are the topics covered in each assignment: 
+The assignments are designed to help students apply the optimization techniques learned in the course and develop some techniques independently. The main topics of each assignment are the following:
 
 - Assignment 1
-    - LP sklutions and LP modelling 
+    - Modelling of linear programs
     - Zero-sum games
 
 - Assignment 2
@@ -18,6 +18,10 @@ These are the topics covered in each assignment:
     
 - Assignment 4
     - TBA
+    
+## Resources 
+
+If interested, please have a look at the [course syllabus](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30553&anno=2023&IdPag=6896)
     
 
  
