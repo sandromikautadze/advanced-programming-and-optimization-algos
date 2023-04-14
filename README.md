@@ -14,7 +14,7 @@ The assignments are designed to help students apply the optimization techniques 
     - Image recognition as min-cost flow problem
     
 - Assignment 3
-    - TBA
+    - Optimal scheduling with integer linear programming
     
 - Assignment 4
     - TBA
