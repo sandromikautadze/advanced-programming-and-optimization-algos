@@ -1,0 +1,13 @@
+I have published programming assignment 3.
+
+
+
+You will need to formulate and solve an ILP to find a baking schedule for a small bakery. Make sure you formulate it reasonably, because the way you formulate an ILP may have a large impact on the time needed to solve it.
+
+
+
+Optimization routines may be a part of some larger system: e.g. you may have an automatic system for managing resources (e.g. ovens in bakeries) and your code needs to produce solutions in a particular form so that it can be integrated into that system. Note that in real jobs people rarely get promoted for their code bringing down the whole system because of an indentation error, even if the code was "kind of" correct. This was evaluated by vocareum itself in past assignments and it will be done in this one too.
+
+
+
+But sometimes one needs to present the results to humans. Only somebody who understands your program can understand what the value of (e.g.) variable x_43 means. And if somebody understands your program, maybe they could in fact do it themselves instead of hiring you. The ability to interpret the results and present them in a form understandable to non-experts is essential for the results of the optimization process to be usable. Therefore your second task will be to produce a visualization of your solution in a way that a baker in the bakery can follow it. The visualizations will be graded manually.
