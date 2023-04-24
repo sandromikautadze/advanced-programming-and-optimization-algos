@@ -17,7 +17,7 @@ The assignments are designed to help students apply the optimization techniques 
     - Optimal scheduling with integer linear programming
     
 - Assignment 4
-    - TBA
+    - Vehicle power consumption optimization
     
 ## Resources 
 
